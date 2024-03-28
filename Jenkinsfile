@@ -16,7 +16,7 @@ pipeline {
 
         stage('sprint2') { 
              steps { 
-                sh 'echo "sprint2 application..."'
+                sh 'echo "eidt file webhook sprint2 application..."'
             }
         }  
     }
